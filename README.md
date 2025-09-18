@@ -1,3 +1,10 @@
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
+
 # 📬 PHP Contact Form
 
 A **super simple PHP project** that demonstrates how to collect user input from a form and display it back to the user.  
